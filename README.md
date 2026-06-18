@@ -1,1 +1,3 @@
-# At6git
+Atividade 6 - git
+
+Teste Terminal 1
